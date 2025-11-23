@@ -1,0 +1,16 @@
+#box{
+    border: 5px solid black;
+    margin: 30px 45px 0 15px;
+    padding: 12px;
+    width: 1050px;
+}
+
+#abes{
+    border: 45px solid #0000ff;
+    background-color: yellow;
+    padding: 60px 0;
+    margin: 45px 12px 23px 50px;
+    text-align: center;
+    align-content: center;
+    font-size: x-large;
+}

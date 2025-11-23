@@ -1,0 +1,47 @@
+p{
+color: blue;
+background-color: aqua;
+text-align: center;
+align-content: center;
+ font-size: 25px;
+ height: 300px;
+ width: 300px;
+ padding: 10px;
+ margin: 10px;
+ border: 1px dashed;
+  place-items: center;/*center the container in the page */
+
+}
+.box1{
+    color: brown;
+    background-color: red;
+    text-align: center;
+    display: flex;
+    place-items: center;/*center the container in the page */
+
+    
+    
+}
+.box2{
+    color: red;
+    background-color:greenyellow ;
+    text-align:center;
+    display: flex;
+     place-items: center;/*center the container in the page */
+}
+.box3{ color: brown;
+    background-color: red;
+    text-align: center;
+    display: flex;
+     place-items: center;/*center the container in the page */
+}
+
+
+.box4{ color: brown;
+    background-color: red;
+    text-align: center;
+    display: flex;
+     place-items: center;/*center the container in the page */
+    
+
+}

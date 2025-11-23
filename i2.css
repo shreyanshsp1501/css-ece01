@@ -1,0 +1,33 @@
+.element{
+    display: BLOCK;
+    font-size:xx-large ;
+    font-weight: bold;
+}
+.s1{
+    font-size:xx-large;
+
+}
+
+.s2{
+    font-size: xx-large;
+    margin: 10px 0px;
+    background-color: powderblue;
+}
+.s3{
+    background-color: lightgreen;
+    font-size: larger;
+
+}
+
+.box{
+    padding: 5px;
+}
+.menu-link{
+display:inline;
+color: blue;
+text-decoration: 1px solid blue underline;
+}
+.product{
+    display: 25px;
+    height: 300px;
+}  
